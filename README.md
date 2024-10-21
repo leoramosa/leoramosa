@@ -2,7 +2,9 @@
 
 ### Desarrollador Full Stack | Diseñador Web
 
-Soy desarrollador Full Stack con más de 6 años de experiencia creando aplicaciones web completas y dinámicas. Mi enfoque principal está en el **Frontend**, donde me especializo en construir interfaces intuitivas y atractivas, pero también tengo conocimientos en el **Backend**, lo que me permite abordar proyectos de manera integral.
+Soy desarrollador Full Stack con más de 6 años de experiencia creando aplicaciones web completas y dinámicas. Mi enfoque principal está en el **Frontend**, donde me especializo en construir interfaces intuitivas y atractivas, pero también tengo experiencia sólida en el **Backend**, lo que me permite abordar proyectos de manera integral. 
+
+Mi objetivo es crear soluciones que no solo se vean bien, sino que también ofrezcan una experiencia fluida y optimizada para el usuario final. Me apasiona el desarrollo de software, siempre aprendiendo y mejorando mis habilidades en cada proyecto.
 
 ---
 
@@ -12,21 +14,41 @@ Soy desarrollador Full Stack con más de 6 años de experiencia creando aplicaci
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
 - **Bases de Datos**: ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 - **Herramientas de Desarrollo**: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+- **Despliegue**: ![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel) ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 
 ---
 
 ## 🎯 Acerca de mí
 
-- 🎨 Soy desarrollador y diseñador web, me apasiona crear interfaces que sean atractivas y funcionales.
-- 🚀 Me encanta aprender nuevas tecnologías y aplicarlas en mis proyectos.
-- 📚 Siempre busco colaborar en proyectos interesantes y seguir creciendo como profesional.
+- 🎨 Me especializo en crear interfaces atractivas y altamente funcionales, optimizando la experiencia del usuario.
+- 🚀 Me encanta estar al tanto de las últimas tecnologías, siempre aplicándolas en mis proyectos.
+- 🛠️ Disfruto trabajar tanto en **Frontend** como en **Backend**, combinando el diseño visual con una arquitectura sólida.
+- 📚 Siempre estoy aprendiendo y mejorando mis habilidades en desarrollo Full Stack.
 
 ---
 
 ## 🛠️ Proyectos Destacados
 
-- **[Proyecto 1](#)**: Descripción breve del proyecto.
-- **[Proyecto 2](#)**: Descripción breve del proyecto.
+### [Power Training 1.0](https://powertra.vercel.app/)
+
+**Power Training 1.0** es una innovadora Web/App dirigida al sector del fitness, diseñada para mejorar la interacción entre entrenadores personales y clientes. Este proyecto ofrece una solución integral que incluye:
+
+- **Rutinas personalizadas** adaptadas a las necesidades de los usuarios.
+- **ABM de ejercicios y usuarios** para una gestión eficiente.
+- **Recordatorios vía email**, seguimiento en tiempo real y descarga de reportes.
+- Plataforma todo-en-uno para mejorar la experiencia tanto de los entrenadores como de los usuarios.
+
+Tecnologías utilizadas:
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Backend**: Node.js, NestJS, MySQL, MongoDB
+- **Despliegue**: Vercel
+
+---
+
+## 🌍 Encuéntrame en
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)
+- [Portafolio](https://tusitio.com)
 
 ---
 
