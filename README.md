@@ -47,8 +47,8 @@ Tecnologías utilizadas:
 
 ## 🌍 Encuéntrame en
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/leo-ramosa/)
-- [Portafolio](https://www.leoramos.dev/)
+- <a href="https://www.linkedin.com/in/leo-ramosa/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)</a>
+- <a href="https://www.leoramos.dev/" target="_blank">Portafolio</a>
 - 📧 [Correo](mailto:contact@leoramos.dev)
 ---
 
