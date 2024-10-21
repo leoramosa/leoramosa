@@ -1,6 +1,6 @@
 # ¡Hola! Soy Leonardo Ramos 👋
 
-### Full Stack | Web Designer | UI Designer
+### Full Stack Developer | Web Designer | UI Designer
 
 Soy Full Stack Developer con más de 6 años de experiencia creando aplicaciones web completas y dinámicas. Mi enfoque principal está en el **Frontend**, donde me especializo en construir interfaces intuitivas y atractivas, pero también tengo conocimientos en el **Backend**, lo que me permite abordar proyectos de manera integral. 
 
