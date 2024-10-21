@@ -1,8 +1,8 @@
 # ¡Hola! Soy Leonardo Ramos 👋
 
-### Desarrollador Full Stack | Diseñador Web
+### Full Stack | Web Designer | UI Designer
 
-Soy desarrollador Full Stack con más de 6 años de experiencia creando aplicaciones web completas y dinámicas. Mi enfoque principal está en el **Frontend**, donde me especializo en construir interfaces intuitivas y atractivas, pero también tengo experiencia sólida en el **Backend**, lo que me permite abordar proyectos de manera integral. 
+Soy Full Stack Developer con más de 6 años de experiencia creando aplicaciones web completas y dinámicas. Mi enfoque principal está en el **Frontend**, donde me especializo en construir interfaces intuitivas y atractivas, pero también tengo conocimientos en el **Backend**, lo que me permite abordar proyectos de manera integral. 
 
 Mi objetivo es crear soluciones que no solo se vean bien, sino que también ofrezcan una experiencia fluida y optimizada para el usuario final. Me apasiona el desarrollo de software, siempre aprendiendo y mejorando mis habilidades en cada proyecto.
 
@@ -23,7 +23,7 @@ Mi objetivo es crear soluciones que no solo se vean bien, sino que también ofre
 - 🎨 Me especializo en crear interfaces atractivas y altamente funcionales, optimizando la experiencia del usuario.
 - 🚀 Me encanta estar al tanto de las últimas tecnologías, siempre aplicándolas en mis proyectos.
 - 🛠️ Disfruto trabajar tanto en **Frontend** como en **Backend**, combinando el diseño visual con una arquitectura sólida.
-- 📚 Siempre estoy aprendiendo y mejorando mis habilidades en desarrollo Full Stack.
+- 📚 Siempre estoy aprendiendo y mejorando mis habilidades en Full Stack Developer.
 
 ---
 
@@ -40,16 +40,14 @@ Mi objetivo es crear soluciones que no solo se vean bien, sino que también ofre
 
 Tecnologías utilizadas:
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: Node.js, NestJS, MySQL, MongoDB
+- **Backend**: Node.js, NestJS, MySQL, Postgres
 - **Despliegue**: Vercel
 
 ---
 
-## 🌍 Encuéntrame en
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)
-- [Portafolio](https://tusitio.com)
-
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/leo-ramosa/)
+- [Portafolio](https://www.leoramos.dev/)
+- 📧 [Correo](mailto:contact@leoramos.dev)
 ---
 
 ¡Gracias por visitar mi perfil! 😊
