@@ -14,7 +14,7 @@ Mi objetivo es crear soluciones que no solo se vean bien, sino que también ofre
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
 - **Bases de Datos**: ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 - **Herramientas de Desarrollo**: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
-- **Despliegue**: ![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel) ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku) ![Render](https://img.shields.io/badge/-Heroku-333?style=flat&logo=render)
+- **Despliegue**: ![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel) ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku) ![Render](https://img.shields.io/badge/-render-333?style=flat&logo=render)
 
 ---
 
